@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/aggngrh/serviskomputer/main/Screenshot%202024-05-23%20153329.png" width="400" alt="Screenshot 1">
+<img src="https://raw.githubusercontent.com/aggngrh/serviskomputer/main/Screenshot%202024-05-23%20153411.png" width="400" alt="Screenshot 1">
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
